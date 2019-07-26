@@ -1,0 +1,14 @@
+.button-store {
+  display: inline-block;
+  font-size: 20px;
+  color: #ffffff;
+  background: #252c41;
+  font-family: Arial, "Roboto", sans-serif;
+  width: 200px;
+  height: 60px;
+  /*quando temos 1 linha de texto é possivel alinhar verticalmente no centro, colocando na propriedade line-height = propriedade height = 60px neste caso*/
+  line-height: 60px;
+  margin-right: 0;
+  text-align: center; /*Alinha o texto do botão horizontalmente   no centro */
+  text-decoration: none; /*elimina o sublinhado do texto*/
+}

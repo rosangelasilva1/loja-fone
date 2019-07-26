@@ -1,0 +1,11 @@
+.container-store {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%); /*Centralizar */
+  width: 80%;
+  padding: 55px 60px 95px; /*Distância do centro até a  borda*/
+
+  height: 20%;
+  background-color: #e24647;
+}

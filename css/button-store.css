@@ -1,5 +1,5 @@
 .button-store {
-  display: inline-block;
+  display: inline-block; /*Insere elementos um ao lado do outro e  disponibiliza propriedade width e height */
   font-size: 20px;
   color: #ffffff;
   background: #252c41;
@@ -11,4 +11,18 @@
   margin-right: 0;
   text-align: center; /*Alinha o texto do botão horizontalmente   no centro */
   text-decoration: none; /*elimina o sublinhado do texto*/
+}
+
+.button-store-second {
+  display: inline-block;
+  font-family: Arial, "Roboto", sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  color: #fff;
+  border: 2px solid #fff; /*espessura, tipo, cor*/
+  box-sizing: border-box; /*A borda faz parte da caixa*/
+  width: 218px;
+  height: 60px;
+  text-align: center;
+  line-height: 56px;
 }

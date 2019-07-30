@@ -13,16 +13,11 @@
   text-decoration: none; /*elimina o sublinhado do texto*/
 }
 
-.button-store-second {
-  display: inline-block;
-  font-family: Arial, "Roboto", sans-serif;
-  font-size: 20px;
-  text-decoration: none;
-  color: #fff;
+/* .button-store.-second  Significa:  Deve existir a  classe button-store E a classe -second, declarada no elemento HTML, para funcionar corretamente.*/
+.button-store.-second {
+  background-color: transparent;
   border: 2px solid #fff; /*espessura, tipo, cor*/
   box-sizing: border-box; /*A borda faz parte da caixa*/
   width: 218px;
-  height: 60px;
-  text-align: center;
   line-height: 56px;
 }

@@ -9,7 +9,7 @@
   /*quando temos 1 linha de texto é possivel alinhar verticalmente no centro, colocando na propriedade line-height = propriedade height = 60px neste caso*/
 
   line-height: 60px;
-  margin-right: 0;
+  margin-right: 65px;
   text-align: center; /*Alinha o texto do botão horizontalmente   no centro */
   text-decoration: none; /*elimina o sublinhado do texto*/
   border: none;
@@ -22,4 +22,17 @@
   box-sizing: border-box; /*A borda faz parte da caixa*/
   width: 218px;
   line-height: 56px;
+}
+
+.description-list-fone {
+  color: #ffffff;
+  margin-left: 441px;
+}
+
+.description-list-fone-button {
+  display: inline-block;
+}
+
+.description-list-title {
+  margin-top: 238px;
 }
